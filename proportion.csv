@@ -1,0 +1,36 @@
+year,key,value
+1994,Refrigerator,99.9
+1999,Refrigerator,99.8
+2002,Refrigerator,99.8
+2005,Refrigerator,99.8
+2008,Refrigerator,99.8
+1994,Washing machine,95
+1999,Washing machine,95.3
+2002,Washing machine,95.1
+2005,Washing machine,95.8
+2008,Washing machine,96.6
+1994,Heater,99.4
+1999,Heater,98.8
+2002,Heater,99
+2005,Heater,98.1
+2008,Heater,97.4
+1994,Cooler,36.9
+1999,Cooler,43.5
+2002,Cooler,52.9
+2005,Cooler,60.5
+2008,Cooler,69.6
+1994,Clothes dryer,57.3
+1999,Clothes dryer,54.9
+2002,Clothes dryer,55.1
+2005,Clothes dryer,54
+2008,Clothes dryer,54.7
+1994,Dishwasher,31.9
+1999,Dishwasher,36.4
+2002,Dishwasher,42.4
+2005,Dishwasher,47.5
+2008,Dishwasher,51.7
+1994,Separate freezer,31.9
+1999,Separate freezer,36.4
+2002,Separate freezer,42.4
+2005,Separate freezer,47.5
+2008,Separate freezer,51.7
