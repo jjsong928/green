@@ -1,0 +1,12 @@
+year,key,value
+origin,,
+Heating your home,origin,42.6
+water heating,origin,22.1
+cooling,origin,7.9
+fridge,origin,8
+cooking,origin,4.9
+lighting,origin,3.9
+watch TV,origin,3.6
+pool,origin,1.9
+computer,origin,1.6
+other,origin,1.8
